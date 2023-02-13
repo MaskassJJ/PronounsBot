@@ -8,7 +8,7 @@ a Discord bot that gets info off [pronouns.page](https://en.pronouns.page) using
 
 ```cd PronounsBot```
 
-[create a Discord bot application](https://discord.com/developers/applications) and copy the token (don't showw it to anyone)
+[create a Discord bot application](https://discord.com/developers/applications) and copy the token (don't show it to anyone)
 
 create .env file and set the token as ```TOKEN```
 
